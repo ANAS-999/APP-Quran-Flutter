@@ -1,1 +1,16 @@
 # Quran App v1.1.0
+
+This application enables you to read and listen to the Holy Quran in several narrations by several reciters.
+<br><br>
+# 📸 Screenshots
+
+<img src="./screenshots/screenshot_1.jpg" height="400px">
+<img src="./screenshots/screenshot_2.jpg" height="400px">
+<img src="./screenshots/screenshot_3.jpg" height="400px">
+<img src="./screenshots/screenshot_4.jpg" height="400px">
+<img src="./screenshots/screenshot_5.jpg" height="400px">
+<img src="./screenshots/screenshot_6.jpg" height="400px"> <br><br><br>
+
+# Download
+
+- APK : https://bit.ly/QuranApp110
