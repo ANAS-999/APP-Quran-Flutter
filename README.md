@@ -18,6 +18,4 @@ This application enables you to read and listen to the Holy Quran in several nar
 # Download
 
 You can download the APK directly in the releases section or 
-via this link
-
-- APK : https://bit.ly/QuranApp110
+via this [APK](https://bit.ly/QuranApp110).
